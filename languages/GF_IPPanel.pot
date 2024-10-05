@@ -1,0 +1,1137 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IPPanel for Gravity Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-05 05:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/sidebar.php:6 includes/sidebar.php:10
+msgid " Send SMS "
+msgstr ""
+
+#: includes/verification.php:232 includes/wp-sms-intergrate.php:15
+msgid ""
+"<h6>Country code</h6>You can change the default country code. but If entered "
+"mobile phone number was international format, this country code will be "
+"effectless."
+msgstr ""
+
+#: includes/verification.php:232
+msgid "<h6>Gravity SMS</h6>Gravity SMS Pro fields"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"<h6>Mandatory group</h6>If you would like the user to subscribe to a certain "
+"SMS Subscribers Group, please select the desired group."
+msgstr ""
+
+#: includes/verification.php:232
+msgid "<h6>Mobile Field</h6>Select the mobile number field to verify."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"<h6>Mobile filed</h6>Please choose the field equivalent to the Mobile field "
+"in the WP SMS plugin."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"<h6>Name filed</h6>Please choose the field equivalent to the Name field in "
+"the WP SMS plugin."
+msgstr ""
+
+#: includes/verification.php:232
+msgid ""
+"<h6>SMS Text</h6>Enter the SMS text containing the activation code. Also for "
+"the activation code, use the given short-code."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid "<h6>Subscription operations</h6>Please select the intended operation."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"<h6>Welcome message</h6>Check the checkbox if you wish to deactivate sending "
+"a Welcome message after subscription activation in the WP SMS settings."
+msgstr ""
+
+#: includes/verification.php:232
+msgid "<h6>White list</h6>Enter the numbers that do not need verification. "
+msgstr ""
+
+#: includes/configurations.php:222
+msgid ""
+"<strong>Note : </strong>You can change the default country code. but If "
+"entered mobile phone number was international format, this country code will "
+"be effectless."
+msgstr ""
+
+#: includes/configurations.php:173
+msgid ""
+"<strong>Note : </strong>Your Payment gateway must be standard. it is "
+"required to use \"gform_post_payment_status\" action."
+msgstr ""
+
+#: includes/settings.php:222
+msgid ""
+"<strong>Warning!</strong> This operation deletes ALL Gravity SMS Pro "
+"Informations."
+msgstr ""
+
+#: includes/feeds.php:112 includes/feeds.php:142
+msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+
+#: includes/settings.php:2
+msgid ""
+"Activate this option to replace merge tags value in SMS Sidebar via ajax "
+"(Entry details)"
+msgstr ""
+
+#: includes/settings.php:2
+msgid ""
+"Activating this section is not recommended; since you must connect to the "
+"webservice provider every time you wish to check your credit’s status and "
+"this might cause the wordpress admin to reduce in speed."
+msgstr ""
+
+#: includes/feeds.php:93 includes/feeds.php:94 includes/feeds.php:199
+#: includes/feeds.php:199
+msgid "Active"
+msgstr ""
+
+#: includes/feeds.php:20 includes/feeds.php:217
+msgid "Add New"
+msgstr ""
+
+#: includes/settings.php:156
+msgid "Admin Bar Menu"
+msgstr ""
+
+#: includes/configurations.php:256
+msgid "Admin Message Body"
+msgstr ""
+
+#: includes/configurations.php:243
+msgid "Admin Numbers"
+msgstr ""
+
+#: includes/configurations.php:235
+msgid "Admin SMS Configuration : "
+msgstr ""
+
+#: includes/configurations.php:169
+msgid "After Payment(All payment statuses)"
+msgstr ""
+
+#: includes/configurations.php:171
+msgid "After Successful Payment"
+msgstr ""
+
+#: includes/configurations.php:289 includes/configurations.php:418
+msgid "All"
+msgstr ""
+
+#. Author of the plugin
+msgid "Amirhossein Jahani"
+msgstr ""
+
+#: includes/configurations.php:290 includes/configurations.php:419
+msgid "Any"
+msgstr ""
+
+#: includes/feeds.php:36
+msgid "Apply"
+msgstr ""
+
+#: includes/bulk.php:71
+msgid "Back to enteries"
+msgstr ""
+
+#: includes/feeds.php:31 includes/feeds.php:33
+msgid "Bulk action"
+msgstr ""
+
+#: includes/bulk.php:72
+#, php-format
+msgid ""
+"Bulk Action : SMS sent to numbers successfully. Numbers : %s | Sender Number "
+": %s | Message Body : %s."
+msgstr ""
+
+#: includes/bulk.php:72
+#, php-format
+msgid ""
+"Bulk Action : The sending of the message encountered an error. Numbers : %s "
+"| Sender Number : %s | Reason : %s | Message Body : %s."
+msgstr ""
+
+#: includes/verification.php:232
+msgid ""
+"By activating this part, the contents of this field will be concealed from "
+"the ‘all_fields” tag."
+msgstr ""
+
+#: includes/verification.php:6
+msgid ""
+"By adding this field, the user must first verify his phone number through "
+"SMS in order proceed into the next stages of filling out the form. Please be "
+"aware that normally no filed will be added to the form. However, the field "
+"will appear whenever you wish to complete or register the form."
+msgstr ""
+
+#: includes/configurations.php:183
+msgid "Change Country Code"
+msgstr ""
+
+#: includes/configurations.php:158
+msgid "Check if only your form is connected to payment gateways."
+msgstr ""
+
+#: includes/configurations.php:190
+msgid "Check if you want to change default country code."
+msgstr ""
+
+#: includes/sidebar.php:69
+msgid "Checkup SMS General settings ."
+msgstr ""
+
+#: includes/bulk.php:123
+msgid "Checkup SMS General settings."
+msgstr ""
+
+#: includes/configurations.php:272 includes/configurations.php:401
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/feeds.php:106 includes/feeds.php:107 includes/feeds.php:126
+#: includes/feeds.php:127
+msgid "Configuration"
+msgstr ""
+
+#: includes/configurations.php:315 includes/configurations.php:444
+msgid "contains"
+msgstr ""
+
+#: includes/verification.php:248
+msgid "Country Code"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:234
+msgid "Country code"
+msgstr ""
+
+#: includes/sent.php:2
+msgid "Date"
+msgstr ""
+
+#: includes/verification.php:232
+msgid ""
+"Define how many time a number is allowed to enter the wrong code in this "
+"form."
+msgstr ""
+
+#: includes/verification.php:232
+msgid ""
+"Define how many time a number is allowed to request to get the activation "
+"code in this form."
+msgstr ""
+
+#: includes/feeds.php:34 includes/feeds.php:111 includes/feeds.php:141
+#: includes/sent.php:2 includes/sent.php:2
+msgid "Delete"
+msgstr ""
+
+#: includes/feeds.php:112 includes/feeds.php:142
+msgid "delete"
+msgstr ""
+
+#: includes/feeds.php:37
+msgid "Delete selected feeds? \\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+
+#: includes/feeds.php:112 includes/feeds.php:142
+msgid "Delete this feed? "
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:286
+msgid "Display-type for Subscribers Group"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"Displaying the Subscribers Group is possible in either a drop-down or a "
+"radio-button manner."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:300
+msgid "Drop Down"
+msgstr ""
+
+#: includes/configurations.php:209 includes/verification.php:263
+#: includes/wp-sms-intergrate.php:249
+msgid "Dynamic"
+msgstr ""
+
+#: includes/feeds.php:102 includes/feeds.php:122
+msgid "Edit Config"
+msgstr ""
+
+#: includes/feeds.php:131
+msgid "Edit Form"
+msgstr ""
+
+#: includes/feeds.php:132
+msgid "Edit form"
+msgstr ""
+
+#: includes/configurations.php:279
+msgid "Enable Condition for Admin"
+msgstr ""
+
+#: includes/configurations.php:408
+msgid "Enable Condition for User"
+msgstr ""
+
+#: includes/configurations.php:317 includes/configurations.php:446
+msgid "ends with"
+msgstr ""
+
+#: includes/verification.php:6
+msgid ""
+"Enter the code you have received by SMS in above field to verify your mobile "
+"number."
+msgstr ""
+
+#: includes/configurations.php:817
+msgid "Enter value"
+msgstr ""
+
+#: includes/feeds.php:57 includes/feeds.php:72 includes/feeds.php:136
+#: includes/feeds.php:137
+msgid "Entries"
+msgstr ""
+
+#: includes/sent.php:2
+msgid "Entry ID"
+msgstr ""
+
+#: includes/verification.php:367
+msgid "Exceptional mobile numbers"
+msgstr ""
+
+#: includes/configurations.php:369
+msgid "Extra Numbers"
+msgstr ""
+
+#: includes/feeds.php:146 includes/main.php:1
+msgid "Feed"
+msgstr ""
+
+#: includes/send.php:1
+#, php-format
+msgid "Feed %s => Admin SMS is disabled or Admin number is empty.%s%s%s%s"
+msgstr ""
+
+#: includes/send.php:1
+#, php-format
+msgid ""
+"Feed %s => SMS sent to Admin successfully. Admin Number : %s | Sender Number "
+": %s %s | Message Body : %s"
+msgstr ""
+
+#: includes/send.php:1
+#, php-format
+msgid ""
+"Feed %s => SMS sent to user successfully. User Number : %s | Sender Number : "
+"%s %s | Message Body : %s"
+msgstr ""
+
+#: includes/send.php:1
+#, php-format
+msgid ""
+"Feed %s => The sending of the message to Admin encountered an error. Admin "
+"Number : %s | Sender Number : %s | Reason : %s | Message Body : %s"
+msgstr ""
+
+#: includes/send.php:1
+#, php-format
+msgid ""
+"Feed %s => The sending of the message to user encountered an error. User "
+"Number : %s | Sender Number : %s | Reason : %s | Message Body : %s"
+msgstr ""
+
+#: includes/send.php:1
+#, php-format
+msgid "Feed %s => User SMS is disabled or user number is empty.%s%s%s%s"
+msgstr ""
+
+#: includes/feeds.php:3
+msgid "Feed deleted."
+msgstr ""
+
+#: includes/feeds.php:52 includes/feeds.php:68
+msgid "Feed ID"
+msgstr ""
+
+#: includes/configurations.php:13
+#, php-format
+msgid "Feed ID: %s"
+msgstr ""
+
+#: includes/configurations.php:27 includes/configurations.php:33
+#, php-format
+msgid "Feed Updated. %sback to list%s"
+msgstr ""
+
+#: includes/main.php:1
+msgid "Feeds"
+msgstr ""
+
+#: includes/feeds.php:6
+msgid "Feeds deleted."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:355
+msgid "First you need to create some Subscription Groups in the WP SMS plugin."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:277
+msgid "Force to subscribe to the determination group"
+msgstr ""
+
+#: includes/feeds.php:147
+msgid "Form Feeds"
+msgstr ""
+
+#: includes/feeds.php:55 includes/feeds.php:70 includes/sent.php:2
+msgid "Form ID"
+msgstr ""
+
+#: includes/configurations.php:15
+#, php-format
+msgid "Form Name: %s"
+msgstr ""
+
+#: includes/feeds.php:152
+msgid "Form Outbox"
+msgstr ""
+
+#: includes/feeds.php:56 includes/feeds.php:71
+msgid "Form title"
+msgstr ""
+
+#: includes/configurations.php:53
+#, php-format
+msgid "Form:%s (Feed:%s)"
+msgstr ""
+
+#: includes/sent.php:2
+msgid "From"
+msgstr ""
+
+#: includes/configurations.php:82 includes/configurations.php:95
+msgid "General configuration"
+msgstr ""
+
+#: includes/main.php:1
+msgid "General Settings"
+msgstr ""
+
+#: includes/main.php:1
+msgid "GF SMS"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "GF SMS - WP SMS"
+msgstr ""
+
+#: includes/sent.php:2
+msgid "Go get a life script kiddies"
+msgstr ""
+
+#: includes/settings.php:6
+#, php-format
+msgid ""
+"Gravity Forms SMS Pro have been successfully uninstalled. It can be re-"
+"activated from the %splugins page%s."
+msgstr ""
+
+#: includes/feeds.php:2
+#, php-format
+msgid ""
+"Gravity forms SMS Pro requires Gravity Forms %s. Upgrade automatically on "
+"the %sPlugin page%s."
+msgstr ""
+
+#: includes/settings.php:17
+msgid "Gravity SMS Pro settings"
+msgstr ""
+
+#: includes/main.php:1
+msgid "Gravityforms SMS Pro"
+msgstr ""
+
+#: includes/configurations.php:313 includes/configurations.php:442
+msgid "greater than"
+msgstr ""
+
+#: includes/verification.php:359
+msgid "Hide from the {all_fields} merge tag"
+msgstr ""
+
+#: includes/verification.php:282
+msgid "How to enter the verification codes?"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:270
+msgid "How to subscribe to a Subscribers Group"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://iamir.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://iamir.net/plugins/wp/gf-ippanel"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"If the entered mobile number has already been registered in the WP SMS "
+"newsletter, prevent filling out the form and show the laid message."
+msgstr ""
+
+#: includes/configurations.php:167
+msgid "Immediately after form submission"
+msgstr ""
+
+#: includes/verification.php:378
+msgid "In order to continue, you must verify your mobile number."
+msgstr ""
+
+#: includes/feeds.php:93 includes/feeds.php:94 includes/feeds.php:195
+#: includes/feeds.php:195
+msgid "Inactive"
+msgstr ""
+
+#: includes/gateways/ippanel.php:2
+msgid "IP Panel"
+msgstr ""
+
+#. Name of the plugin
+msgid "IPPanel for Gravity Forms"
+msgstr ""
+
+#: includes/configurations.php:311 includes/configurations.php:440
+msgid "is"
+msgstr ""
+
+#: includes/configurations.php:312 includes/configurations.php:441
+msgid "is not"
+msgstr ""
+
+#: includes/sent.php:2
+msgid "Item removed."
+msgstr ""
+
+#: includes/sent.php:2
+msgid "Items removed."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:355
+msgid "It’s not possible to edit WP SMS field on unsubscribe mode."
+msgstr ""
+
+#: includes/configurations.php:236
+msgid "Leave blank for unsending."
+msgstr ""
+
+#: includes/configurations.php:354
+msgid "Leave them blank for unsending."
+msgstr ""
+
+#: includes/configurations.php:314 includes/configurations.php:443
+msgid "less than"
+msgstr ""
+
+#: includes/verification.php:297
+msgid "Manual"
+msgstr ""
+
+#: includes/verification.php:347
+msgid "Maximum number of resending the code"
+msgstr ""
+
+#: includes/verification.php:337
+msgid "Maximum number of retries allowed"
+msgstr ""
+
+#: includes/bulk.php:108 includes/sent.php:2
+msgid "Message"
+msgstr ""
+
+#: includes/sidebar.php:31
+msgid "Message : "
+msgstr ""
+
+#: includes/bulk.php:72
+msgid "Message sent successfully"
+msgstr ""
+
+#: includes/verification.php:239 includes/wp-sms-intergrate.php:355
+msgid "Mobile number field"
+msgstr ""
+
+#: includes/sidebar.php:2
+msgid "Mobile number: "
+msgstr ""
+
+#: includes/sidebar.php:6
+#, php-format
+msgid "Mobile number: %s"
+msgstr ""
+
+#: includes/sidebar.php:6
+msgid "Mobile number: -"
+msgstr ""
+
+#: includes/verification.php:1 includes/verification.php:3
+msgid "Mobile Verification"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:275
+msgid "Must be chosen by user"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:355
+msgid "Name field"
+msgstr ""
+
+#: includes/main.php:1
+msgid "New Feed"
+msgstr ""
+
+#: includes/settings.php:170 includes/settings.php:195
+msgid "No"
+msgstr ""
+
+#: includes/settings.php:143
+msgid "No ( Recommended )"
+msgstr ""
+
+#: includes/sidebar.php:6
+msgid "No Gateway found ."
+msgstr ""
+
+#: includes/gateways.php:1 includes/send.php:1
+msgid "No Gateway found."
+msgstr ""
+
+#: includes/sent.php:2
+msgid "No items found, dude."
+msgstr ""
+
+#: includes/bulk.php:48
+msgid "Number of recievers (repeated numbers have been removed)"
+msgstr ""
+
+#: includes/configurations.php:292 includes/configurations.php:421
+msgid "of the following match:"
+msgstr ""
+
+#: includes/feeds.php:151
+msgid "Outbox"
+msgstr ""
+
+#: includes/gateways/ippanel.php:2
+msgid "Password"
+msgstr ""
+
+#: includes/configurations.php:1040
+msgid "Payment Gateway / Method"
+msgstr ""
+
+#: includes/configurations.php:151
+msgid "Payment Gateway integration"
+msgstr ""
+
+#: includes/sent.php:2
+msgid "Permission denaied!"
+msgstr ""
+
+#: includes/configurations.php:360
+msgid "Phone Number Mapping"
+msgstr ""
+
+#: includes/verification.php:6
+msgid ""
+"Please enter your mobile number for verification purposes in the field "
+"assigned for mobile numbers."
+msgstr ""
+
+#: includes/configurations.php:108
+msgid "Please select a form"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:310
+msgid "Please select the intended group"
+msgstr ""
+
+#: includes/verification.php:318
+msgid "Please separate the codes using commas."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:294
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/verification.php:290
+msgid "Random"
+msgstr ""
+
+#: includes/feeds.php:168
+#, php-format
+msgid "Reciever field label: %s"
+msgstr ""
+
+#: includes/sidebar.php:20
+msgid "Reciever numbers : "
+msgstr ""
+
+#: includes/bulk.php:101
+msgid "Reciever numbers. separate with commas (,). +16175551212,+16175551213"
+msgstr ""
+
+#: includes/feeds.php:60 includes/feeds.php:75 includes/sent.php:2
+msgid "Recievers"
+msgstr ""
+
+#: includes/settings.php:181
+msgid "Replace merge tags value in SMS Sidebar"
+msgstr ""
+
+#: includes/verification.php:6
+msgid "Resend"
+msgstr ""
+
+#: includes/settings.php:206
+msgid "Save Settings"
+msgstr ""
+
+#: includes/sent.php:6
+msgid "Search"
+msgstr ""
+
+#: includes/configurations.php:45
+msgid "Select a feed"
+msgstr ""
+
+#: includes/gateways.php:1
+msgid "Select a Gateway"
+msgstr ""
+
+#: includes/configurations.php:102
+msgid "Select form"
+msgstr ""
+
+#: includes/bulk.php:87 includes/configurations.php:132 includes/sidebar.php:46
+msgid "Select Sender Number"
+msgstr ""
+
+#: includes/bulk.php:58
+msgid "Selected entries don\\'t have phone meta."
+msgstr ""
+
+#: includes/bulk.php:115 includes/sidebar.php:61
+msgid "Send"
+msgstr ""
+
+#: includes/main.php:1
+msgid "Send Message"
+msgstr ""
+
+#: includes/configurations.php:286
+msgid "Send SMS to Admin if "
+msgstr ""
+
+#: includes/bulk.php:64 includes/bulk.php:76 includes/feeds.php:22
+msgid "Send SMS to custom numbers"
+msgstr ""
+
+#: includes/bulk.php:3 includes/bulk.php:6 includes/bulk.php:7
+#: includes/bulk.php:8 includes/bulk.php:9
+msgid "Send SMS to selected entries"
+msgstr ""
+
+#: includes/configurations.php:415
+msgid "Send SMS to User if "
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:347
+msgid "Send welcome message"
+msgstr ""
+
+#: includes/settings.php:76
+msgid "Sender (From)"
+msgstr ""
+
+#: includes/configurations.php:128 includes/feeds.php:59 includes/feeds.php:74
+msgid "Sender Number"
+msgstr ""
+
+#: includes/verification.php:6
+msgid "Sending the message encountered an error."
+msgstr ""
+
+#: includes/configurations.php:164
+msgid "Sending time configuration : "
+msgstr ""
+
+#: includes/feeds.php:41 includes/main.php:1 includes/sent.php:2
+msgid "Sent Messages"
+msgstr ""
+
+#: includes/verification.php:373
+msgid "Separate the numbers using commas."
+msgstr ""
+
+#: includes/settings.php:2
+msgid "Separate with commas (,)"
+msgstr ""
+
+#: includes/configurations.php:250 includes/configurations.php:377
+msgid ""
+"Separate with commas (,). Format with a '+' and country code e.g., "
+"+16175551212"
+msgstr ""
+
+#: includes/settings.php:10
+msgid "Settings updated."
+msgstr ""
+
+#: includes/settings.php:128
+msgid "Show Credit/Balance"
+msgstr ""
+
+#: includes/settings.php:2
+msgid "Show Gravity forms SMS menu in adminbar?"
+msgstr ""
+
+#: includes/feeds.php:212 includes/feeds.php:215 includes/sent.php:2
+#: includes/sent.php:2
+msgid "SMS"
+msgstr ""
+
+#: includes/configurations.php:9
+msgid "SMS configuration for forms"
+msgstr ""
+
+#: includes/verification.php:1
+msgid "SMS Fields"
+msgstr ""
+
+#: includes/settings.php:34
+msgid "SMS Gateway"
+msgstr ""
+
+#: includes/bulk.php:67 includes/configurations.php:21 includes/feeds.php:39
+#: includes/sidebar.php:71
+msgid "SMS General settings"
+msgstr ""
+
+#: includes/main.php:1
+msgid "SMS Notification"
+msgstr ""
+
+#: includes/bulk.php:72 includes/send.php:1 includes/send.php:1
+#: includes/send.php:1 includes/sidebar.php:6 includes/sidebar.php:6
+msgid "SMS Pro"
+msgstr ""
+
+#: includes/feeds.php:14
+msgid "SMS Pro Feeds - All Forms"
+msgstr ""
+
+#: includes/bulk.php:84
+msgid "SMS Sender Number"
+msgstr ""
+
+#: includes/sidebar.php:6
+#, php-format
+msgid "SMS sent to number successfully. Number : %s . see details in Notes ."
+msgstr ""
+
+#: includes/sidebar.php:6
+#, php-format
+msgid ""
+"SMS sent to number successfully. Number : %s | Sender Number : %s | Message "
+"Body : %s ."
+msgstr ""
+
+#: includes/main.php:1
+msgid "SMS Settings"
+msgstr ""
+
+#: includes/gateways/ippanel.php:2
+msgid "SmsPanel Domain"
+msgstr ""
+
+#: includes/configurations.php:316 includes/configurations.php:445
+msgid "starts with"
+msgstr ""
+
+#: includes/configurations.php:202 includes/verification.php:256
+#: includes/wp-sms-intergrate.php:242
+msgid "Static"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:10 includes/wp-sms-intergrate.php:12
+msgid "Subscribers Group"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:208
+msgid "Subscription"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:201
+msgid "Subscription operations"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "Subscription to the SMS newsletter failed."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "Subscription to the SMS newsletter has been successfully done."
+msgstr ""
+
+#: includes/configurations.php:50
+msgid "Switch SMS feed"
+msgstr ""
+
+#: includes/verification.php:6
+msgid "The activation code was sent again via SMS."
+msgstr ""
+
+#: includes/verification.php:6
+msgid "The entered code is incorrect."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "The entered mobile number has previously been used in the newsletter."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "The entered mobile number has previously been used in this form."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid ""
+"The entered number was not subscribed to the SMS newsletter and the "
+"unsubscription did not take place."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "The mobile number value is empty."
+msgstr ""
+
+#. Description of the plugin
+msgid "The most comprehensive SMS plugin for Gravity Forms"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:328
+msgid "The same-number message"
+msgstr ""
+
+#: includes/sidebar.php:6
+msgid ""
+"The sending of the message encountered an error because number is empty ."
+msgstr ""
+
+#: includes/bulk.php:72
+msgid ""
+"The sending of the message encountered an error because number is empty."
+msgstr ""
+
+#: includes/sidebar.php:6
+#, php-format
+msgid ""
+"The sending of the message encountered an error. Number : %s | Sender Number "
+": %s | Reason : %s | Message Body : %s."
+msgstr ""
+
+#: includes/sidebar.php:6
+#, php-format
+msgid ""
+"The sending of the message encountered an error. Number :%s - Reason :%s . "
+"see details in Notes ."
+msgstr ""
+
+#: includes/bulk.php:72
+#, php-format
+msgid "The sending of the message encountered an error. Reason = %s"
+msgstr ""
+
+#: includes/verification.php:325
+msgid "The SMS text"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:5
+msgid "The WP SMS plugin is not installed."
+msgstr ""
+
+#: includes/configurations.php:341 includes/configurations.php:473
+msgid ""
+"To create a registration condition, your form must have a field supported by "
+"conditional logic."
+msgstr ""
+
+#: includes/feeds.php:83
+#, php-format
+msgid ""
+"To get started, please configure your %sGravity SMS Pro Settings%s and set "
+"Gateway ."
+msgstr ""
+
+#: includes/settings.php:220 includes/settings.php:224
+msgid "Uninstall Gravity Forms SMS Pro"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:214
+msgid "Unsubscribe"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "Unsubscription to the SMS newsletter failed."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:364
+msgid "Unsubscription to the SMS newsletter has been successfully done."
+msgstr ""
+
+#: includes/configurations.php:488
+msgid "Update SMS Configuration"
+msgstr ""
+
+#: includes/sidebar.php:6
+#, php-format
+msgid "User mobile number changed from %s to %s ."
+msgstr ""
+
+#: includes/gateways/ippanel.php:2
+msgid "User Name"
+msgstr ""
+
+#: includes/configurations.php:383
+msgid "User SMS Body"
+msgstr ""
+
+#: includes/configurations.php:353
+msgid "User SMS Configuration :"
+msgstr ""
+
+#: includes/verification.php:1
+msgid "Verification"
+msgstr ""
+
+#: includes/verification.php:331
+msgid "Verification Code"
+msgstr ""
+
+#: includes/verification.php:378
+msgid "Verify Mobile Number"
+msgstr ""
+
+#: includes/settings.php:225
+msgid ""
+"Warning! ALL Gravity SMS Pro informations will be deleted. This cannot be "
+"undone. \\'OK\\' to delete, \\'Cancel\\' to stop"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:359
+msgid ""
+"When the “mandatory group” is activated, nothing will be shown for this "
+"field in the form output but the subscription will be done anyhow."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:359
+msgid ""
+"When the “unsubscribe” is activated, nothing will be shown for this field in "
+"the form output but the unsubscription will be done anyhow."
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:10
+msgid "WP SMS"
+msgstr ""
+
+#: includes/settings.php:138 includes/settings.php:165
+#: includes/settings.php:191
+msgid "Yes"
+msgstr ""
+
+#: includes/wp-sms-intergrate.php:15
+msgid ""
+"You can choose whether users may optionally select a Subscribers Group or be "
+"forced to subscribe to the group you determine."
+msgstr ""
+
+#: includes/verification.php:232
+msgid ""
+"You can determine how you would like your activation codes to be considered. "
+"Note that in the manual type each code might be sent to several people."
+msgstr ""
+
+#: includes/settings.php:2
+msgid ""
+"You can set several numbers. Separate with commas(,). for example : "
+"+16175551212,+16175551213. this numbers is default and you can change them "
+"later."
+msgstr ""
+
+#: includes/settings.php:2
+msgid "You don't have adequate permission to uninstall Gravity SMS Pro."
+msgstr ""
+
+#: includes/feeds.php:175
+#, php-format
+msgid "You don't have any SMS feeds configured. Let's go %screate one%s!"
+msgstr ""
+
+#: includes/verification.php:6
+msgid ""
+"You have maxed out of the number of times you are allowed to verify your "
+"mobile number for this form."
+msgstr ""
+
+#: includes/main.php:1
+msgid "Your Credit : "
+msgstr ""
+
+#: includes/settings.php:93
+msgid "Your Default Country Code"
+msgstr ""
+
+#: includes/settings.php:2
+msgid "Your Mobile Country code. like : +1"
+msgstr ""
+
+#: includes/settings.php:23
+msgid "Your SMS Credit : "
+msgstr ""
+
+#: includes/gateways/ippanel.php:2
+msgid "ماژول cURL بر روی هاست شما فعال نمی باشد ."
+msgstr ""
